@@ -1,0 +1,36 @@
+
+@media screen and (max-width: 856px) {
+    
+    header {
+        flex-direction: column;
+    }
+
+    main {
+        flex-direction:  column;
+    }
+
+    main h2 {
+        font-size: 38px;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    aside {
+        margin: 0 auto;
+    }
+
+    input {
+        align-self: center;
+        width: 90%;
+    }
+
+    img {
+        display: none;
+    }
+
+    ul {
+        text-align: center;
+    }
+}
